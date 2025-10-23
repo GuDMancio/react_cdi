@@ -17,7 +17,7 @@ function Projetos(){
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6xAxj8xaY5rc3Tg4P8lShuO3H2sfNf1E3g&s"
                     alt="Projeto 2" />
                     <h3>Projeto 2</h3>
-                    <p>Descrição do projeto 2</p>
+                    <p>Descrição do projeto 3</p>
                 </div>
                 
             </div>
